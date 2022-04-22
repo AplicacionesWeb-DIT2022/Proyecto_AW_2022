@@ -23,4 +23,4 @@ $kernel->terminate($request, $response);
 */
 ?>
 
-<div>HOLA</div>
+<div>AW2022</div>
