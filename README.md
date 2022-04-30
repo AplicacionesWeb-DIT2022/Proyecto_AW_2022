@@ -1,6 +1,8 @@
 # Proyecto Aplicaciones Web 2022
 Repositorio de almacenamiento para el proyecto integral de desarrollo
 
+=======
+
 El proyecto propuesto es una tienda de venta de hardware e insumos de computación.
 
 Se busca lograr una aplicación con acceso diferenciado para administradores y clientes.
@@ -18,3 +20,5 @@ Dentro de los límites del sistema se plantean los siguientes:
 - Debido a que la aplicación a desarrollar representa una empresa ficticia, los apartados de "Preguntas Frecuentes", "Quienes somos", "Contacto", información registral e impositiva, etc. podrán contener poca o nula información. Asimismo, los links a redes sociales serán visibles, pero no contarán con links.
 - Dado que no es la parte más importante del proyecto, el apartado de formas de pago será simple, y no utilizará librerías de sistemas reales.
 - Debido a la complejidad que conllevaría por la información requerida, y dado que no es la parte más importante, no se creará una herramienta de asistencia de armado de pc en base a compatibilidad entre elementos.
+
+Link de Heroku: https://aw2022.herokuapp.com/
